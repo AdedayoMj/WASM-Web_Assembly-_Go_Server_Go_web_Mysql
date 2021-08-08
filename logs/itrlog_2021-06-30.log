@@ -1,0 +1,199 @@
+{"level":"info","ts":1625064611.2183206,"msg":"Web server started at 2021-06-30 22:50:11.2177077 +0800 PST"}
+{"level":"error","ts":1625064611.2209682,"msg":"listen tcp 139.162.176.127:8081: bind: The requested address is not valid in its context."}
+{"level":"warn","ts":1625064655.025383,"msg":"Server has been shutdown at 2021-06-30 22:50:11.2177077 +0800 PST"}
+{"level":"info","ts":1625064658.3181038,"msg":"Web server started at 2021-06-30 22:50:58.3175899 +0800 PST"}
+{"level":"info","ts":1625064671.6034648,"msg":"IP:127.0.0.1:50347:/:2021-06-30 22:50:58.3175899 +0800 PST"}
+{"level":"info","ts":1625064671.7473195,"msg":"IP:127.0.0.1:50347:/static/stream-dashboard-ui-kit/assets/vendor/font-awesome/css/all.min.css:2021-06-30 22:50:58.3175899 +0800 PST"}
+{"level":"info","ts":1625064671.7479248,"msg":"IP:127.0.0.1:64176:/static/stream-dashboard-ui-kit/assets/css/theme.css:2021-06-30 22:50:58.3175899 +0800 PST"}
+{"level":"info","ts":1625064671.7495923,"msg":"IP:127.0.0.1:59584:/static/sweetalert2/sweetalert2.css:2021-06-30 22:50:58.3175899 +0800 PST"}
+{"level":"info","ts":1625064671.7601378,"msg":"IP:127.0.0.1:52813:/static/assets/js/wasm_exec.js:2021-06-30 22:50:58.3175899 +0800 PST"}
+{"level":"info","ts":1625064671.8480866,"msg":"IP:127.0.0.1:50347:/static/jquery/dist/jquery.min.js:2021-06-30 22:50:58.3175899 +0800 PST"}
+{"level":"info","ts":1625064671.850823,"msg":"IP:127.0.0.1:64176:/static/assets/images/adedayo_code.png:2021-06-30 22:50:58.3175899 +0800 PST"}
+{"level":"info","ts":1625064671.860643,"msg":"IP:127.0.0.1:64176:/static/stream-dashboard-ui-kit/assets/svg/shapes/shape-1.svg:2021-06-30 22:50:58.3175899 +0800 PST"}
+{"level":"info","ts":1625064671.8624575,"msg":"IP:127.0.0.1:50347:/static/stream-dashboard-ui-kit/assets/svg/shapes/shape-2.svg:2021-06-30 22:50:58.3175899 +0800 PST"}
+{"level":"info","ts":1625064671.862962,"msg":"IP:127.0.0.1:59584:/static/stream-dashboard-ui-kit/assets/svg/mockups/mockup.svg:2021-06-30 22:50:58.3175899 +0800 PST"}
+{"level":"info","ts":1625064671.8638196,"msg":"IP:127.0.0.1:52813:/static/stream-dashboard-ui-kit/assets/svg/shapes/shape-3.svg:2021-06-30 22:50:58.3175899 +0800 PST"}
+{"level":"info","ts":1625064671.8663716,"msg":"IP:127.0.0.1:53043:/static/stream-dashboard-ui-kit/assets/svg/shapes/shape-4.svg:2021-06-30 22:50:58.3175899 +0800 PST"}
+{"level":"info","ts":1625064671.870064,"msg":"IP:127.0.0.1:57030:/static/sweetalert2/sweetalert2.all.min.js:2021-06-30 22:50:58.3175899 +0800 PST"}
+{"level":"info","ts":1625064671.9318743,"msg":"IP:127.0.0.1:57030:/static/stream-dashboard-ui-kit/assets/vendor/font-awesome/webfonts/fa-regular-400.woff2:2021-06-30 22:50:58.3175899 +0800 PST"}
+{"level":"info","ts":1625064713.8406026,"msg":"IP:127.0.0.1:57030:/login:2021-06-30 22:50:58.3175899 +0800 PST"}
+{"level":"info","ts":1625064713.9030015,"msg":"IP:127.0.0.1:57030:/static/assets/images/Madedayo_code.png:2021-06-30 22:50:58.3175899 +0800 PST"}
+{"level":"info","ts":1625064713.92315,"msg":"IP:127.0.0.1:57030:/static/assets/js/auth/auth.wasm:2021-06-30 22:50:58.3175899 +0800 PST"}
+{"level":"error","ts":1625064785.665607,"msg":"http: Server closed"}
+{"level":"warn","ts":1625064785.6682675,"msg":"Server has been shutdown at 2021-06-30 22:50:58.3175899 +0800 PST"}
+{"level":"info","ts":1625064788.0413015,"msg":"Web server started at 2021-06-30 22:53:08.0402609 +0800 PST"}
+{"level":"info","ts":1625064798.8729897,"msg":"IP:127.0.0.1:53006:/login:2021-06-30 22:53:08.0402609 +0800 PST"}
+{"level":"info","ts":1625064798.9824293,"msg":"IP:127.0.0.1:53006:/static/assets/js/auth/auth.wasm:2021-06-30 22:53:08.0402609 +0800 PST"}
+{"level":"info","ts":1625064799.0229821,"msg":"IP:127.0.0.1:53006:/static/assets/images/favicon.ico:2021-06-30 22:53:08.0402609 +0800 PST"}
+{"level":"info","ts":1625066997.7880843,"msg":"IP:127.0.0.1:54608:/login:2021-06-30 22:53:08.0402609 +0800 PST"}
+{"level":"info","ts":1625066997.8333423,"msg":"IP:127.0.0.1:54608:/static/stream-dashboard-ui-kit/assets/vendor/font-awesome/css/all.min.css:2021-06-30 22:53:08.0402609 +0800 PST"}
+{"level":"info","ts":1625066997.8343394,"msg":"IP:127.0.0.1:53798:/static/stream-dashboard-ui-kit/assets/css/theme.css:2021-06-30 22:53:08.0402609 +0800 PST"}
+{"level":"info","ts":1625066997.8353353,"msg":"IP:127.0.0.1:64142:/static/sweetalert2/sweetalert2.css:2021-06-30 22:53:08.0402609 +0800 PST"}
+{"level":"info","ts":1625066997.9210107,"msg":"IP:127.0.0.1:53798:/static/assets/js/wasm_exec.js:2021-06-30 22:53:08.0402609 +0800 PST"}
+{"level":"info","ts":1625066998.0036488,"msg":"IP:127.0.0.1:53798:/static/jquery/dist/jquery.min.js:2021-06-30 22:53:08.0402609 +0800 PST"}
+{"level":"info","ts":1625066998.0114045,"msg":"IP:127.0.0.1:53798:/static/assets/images/adedayo_code.png:2021-06-30 22:53:08.0402609 +0800 PST"}
+{"level":"info","ts":1625066998.0171518,"msg":"IP:127.0.0.1:53798:/static/stream-dashboard-ui-kit/assets/svg/mockups/mockup.svg:2021-06-30 22:53:08.0402609 +0800 PST"}
+{"level":"info","ts":1625066998.021479,"msg":"IP:127.0.0.1:53798:/static/stream-dashboard-ui-kit/assets/svg/shapes/shape-1.svg:2021-06-30 22:53:08.0402609 +0800 PST"}
+{"level":"info","ts":1625066998.0280685,"msg":"IP:127.0.0.1:53798:/static/stream-dashboard-ui-kit/assets/svg/shapes/shape-2.svg:2021-06-30 22:53:08.0402609 +0800 PST"}
+{"level":"info","ts":1625066998.0331178,"msg":"IP:127.0.0.1:53798:/static/stream-dashboard-ui-kit/assets/svg/shapes/shape-3.svg:2021-06-30 22:53:08.0402609 +0800 PST"}
+{"level":"info","ts":1625066998.0431254,"msg":"IP:127.0.0.1:53798:/static/stream-dashboard-ui-kit/assets/svg/shapes/shape-4.svg:2021-06-30 22:53:08.0402609 +0800 PST"}
+{"level":"info","ts":1625066998.0441222,"msg":"IP:127.0.0.1:64142:/static/sweetalert2/sweetalert2.all.min.js:2021-06-30 22:53:08.0402609 +0800 PST"}
+{"level":"info","ts":1625066998.054421,"msg":"IP:127.0.0.1:64142:/static/stream-dashboard-ui-kit/assets/vendor/font-awesome/webfonts/fa-regular-400.woff2:2021-06-30 22:53:08.0402609 +0800 PST"}
+{"level":"info","ts":1625066998.0851645,"msg":"IP:127.0.0.1:64142:/static/assets/js/auth/auth.wasm:2021-06-30 22:53:08.0402609 +0800 PST"}
+{"level":"info","ts":1625066998.2633483,"msg":"IP:127.0.0.1:64142:/static/assets/images/favicon.ico:2021-06-30 22:53:08.0402609 +0800 PST"}
+{"level":"error","ts":1625067039.4741864,"msg":"http: Server closed"}
+{"level":"warn","ts":1625067039.4780598,"msg":"Server has been shutdown at 2021-06-30 22:53:08.0402609 +0800 PST"}
+{"level":"info","ts":1625067044.3376107,"msg":"Web server started at 2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067047.0780835,"msg":"IP:127.0.0.1:53318:/login:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067047.1154597,"msg":"IP:127.0.0.1:53318:/static/stream-dashboard-ui-kit/assets/vendor/font-awesome/css/all.min.css:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067047.1159644,"msg":"IP:127.0.0.1:53790:/static/stream-dashboard-ui-kit/assets/css/theme.css:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067047.1173708,"msg":"IP:127.0.0.1:51400:/static/sweetalert2/sweetalert2.css:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067047.1961477,"msg":"IP:127.0.0.1:49872:/static/assets/js/wasm_exec.js:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067047.2305222,"msg":"IP:127.0.0.1:53790:/static/assets/images/adedayo_code.png:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067047.2364063,"msg":"IP:127.0.0.1:49872:/static/stream-dashboard-ui-kit/assets/svg/mockups/mockup.svg:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067047.2374842,"msg":"IP:127.0.0.1:53790:/static/stream-dashboard-ui-kit/assets/svg/shapes/shape-1.svg:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067047.2374842,"msg":"IP:127.0.0.1:51400:/static/stream-dashboard-ui-kit/assets/svg/shapes/shape-2.svg:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067047.238009,"msg":"IP:127.0.0.1:53318:/static/stream-dashboard-ui-kit/assets/svg/shapes/shape-3.svg:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067047.238009,"msg":"IP:127.0.0.1:50857:/static/stream-dashboard-ui-kit/assets/svg/shapes/shape-4.svg:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067047.2489247,"msg":"IP:127.0.0.1:51400:/static/stream-dashboard-ui-kit/assets/vendor/font-awesome/webfonts/fa-regular-400.woff2:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067047.2984066,"msg":"IP:127.0.0.1:51400:/static/jquery/dist/jquery.min.js:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067047.2989266,"msg":"IP:127.0.0.1:53318:/static/sweetalert2/sweetalert2.all.min.js:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067047.2989266,"msg":"IP:127.0.0.1:50857:/static/assets/js/auth/auth.wasm:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067047.3937948,"msg":"IP:127.0.0.1:53318:/static/assets/images/favicon.ico:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067049.4586186,"msg":"IP:127.0.0.1:53318:/login:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067049.504048,"msg":"IP:127.0.0.1:53318:/static/stream-dashboard-ui-kit/assets/vendor/font-awesome/css/all.min.css:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067049.5050433,"msg":"IP:127.0.0.1:51400:/static/sweetalert2/sweetalert2.css:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067049.5050433,"msg":"IP:127.0.0.1:50857:/static/stream-dashboard-ui-kit/assets/css/theme.css:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067049.5180662,"msg":"IP:127.0.0.1:50857:/static/assets/js/wasm_exec.js:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067049.613323,"msg":"IP:127.0.0.1:50857:/static/jquery/dist/jquery.min.js:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067049.6214225,"msg":"IP:127.0.0.1:50857:/static/assets/images/adedayo_code.png:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067049.632017,"msg":"IP:127.0.0.1:50857:/static/stream-dashboard-ui-kit/assets/svg/mockups/mockup.svg:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067049.6328819,"msg":"IP:127.0.0.1:51400:/static/stream-dashboard-ui-kit/assets/svg/shapes/shape-1.svg:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067049.6335893,"msg":"IP:127.0.0.1:49872:/static/stream-dashboard-ui-kit/assets/svg/shapes/shape-3.svg:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067049.6342218,"msg":"IP:127.0.0.1:53318:/static/stream-dashboard-ui-kit/assets/svg/shapes/shape-2.svg:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067049.6342218,"msg":"IP:127.0.0.1:62667:/static/sweetalert2/sweetalert2.all.min.js:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067049.6349065,"msg":"IP:127.0.0.1:53790:/static/stream-dashboard-ui-kit/assets/svg/shapes/shape-4.svg:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067049.6463392,"msg":"IP:127.0.0.1:53790:/static/stream-dashboard-ui-kit/assets/vendor/font-awesome/webfonts/fa-regular-400.woff2:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067049.6652133,"msg":"IP:127.0.0.1:53790:/static/assets/js/auth/auth.wasm:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067049.737856,"msg":"IP:127.0.0.1:53790:/static/assets/images/favicon.ico:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067050.62437,"msg":"IP:127.0.0.1:53790:/login:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067050.6676729,"msg":"IP:127.0.0.1:53790:/static/stream-dashboard-ui-kit/assets/vendor/font-awesome/css/all.min.css:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067050.6682394,"msg":"IP:127.0.0.1:62667:/static/stream-dashboard-ui-kit/assets/css/theme.css:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067050.6690245,"msg":"IP:127.0.0.1:53318:/static/sweetalert2/sweetalert2.css:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067050.673389,"msg":"IP:127.0.0.1:53790:/static/assets/js/wasm_exec.js:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067050.7409801,"msg":"IP:127.0.0.1:53790:/static/jquery/dist/jquery.min.js:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067050.7488117,"msg":"IP:127.0.0.1:53790:/static/assets/images/adedayo_code.png:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067050.7525358,"msg":"IP:127.0.0.1:53790:/static/stream-dashboard-ui-kit/assets/svg/mockups/mockup.svg:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067050.7562656,"msg":"IP:127.0.0.1:53790:/static/stream-dashboard-ui-kit/assets/svg/shapes/shape-1.svg:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067050.76245,"msg":"IP:127.0.0.1:53790:/static/stream-dashboard-ui-kit/assets/svg/shapes/shape-2.svg:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067050.7664168,"msg":"IP:127.0.0.1:53790:/static/stream-dashboard-ui-kit/assets/svg/shapes/shape-3.svg:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067050.7702236,"msg":"IP:127.0.0.1:53790:/static/stream-dashboard-ui-kit/assets/svg/shapes/shape-4.svg:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067050.7747076,"msg":"IP:127.0.0.1:53790:/static/sweetalert2/sweetalert2.all.min.js:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067050.7952561,"msg":"IP:127.0.0.1:53790:/static/stream-dashboard-ui-kit/assets/vendor/font-awesome/webfonts/fa-regular-400.woff2:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067050.8208008,"msg":"IP:127.0.0.1:53790:/static/assets/js/auth/auth.wasm:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067050.8795466,"msg":"IP:127.0.0.1:53790:/static/assets/images/favicon.ico:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067051.6430273,"msg":"IP:127.0.0.1:53790:/login:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067051.6893039,"msg":"IP:127.0.0.1:53790:/static/stream-dashboard-ui-kit/assets/vendor/font-awesome/css/all.min.css:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067051.690075,"msg":"IP:127.0.0.1:53318:/static/sweetalert2/sweetalert2.css:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067051.6912708,"msg":"IP:127.0.0.1:62667:/static/stream-dashboard-ui-kit/assets/css/theme.css:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067051.6948385,"msg":"IP:127.0.0.1:50857:/static/assets/js/wasm_exec.js:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067051.763255,"msg":"IP:127.0.0.1:62667:/static/jquery/dist/jquery.min.js:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067051.7705646,"msg":"IP:127.0.0.1:62667:/static/assets/images/adedayo_code.png:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067051.7746825,"msg":"IP:127.0.0.1:62667:/static/stream-dashboard-ui-kit/assets/svg/mockups/mockup.svg:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067051.7794797,"msg":"IP:127.0.0.1:62667:/static/stream-dashboard-ui-kit/assets/svg/shapes/shape-1.svg:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067051.784502,"msg":"IP:127.0.0.1:62667:/static/stream-dashboard-ui-kit/assets/svg/shapes/shape-2.svg:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067051.7887092,"msg":"IP:127.0.0.1:62667:/static/stream-dashboard-ui-kit/assets/svg/shapes/shape-3.svg:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067051.7927217,"msg":"IP:127.0.0.1:62667:/static/stream-dashboard-ui-kit/assets/svg/shapes/shape-4.svg:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067051.7997508,"msg":"IP:127.0.0.1:62667:/static/sweetalert2/sweetalert2.all.min.js:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067051.8193228,"msg":"IP:127.0.0.1:62667:/static/stream-dashboard-ui-kit/assets/vendor/font-awesome/webfonts/fa-regular-400.woff2:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067051.8395746,"msg":"IP:127.0.0.1:62667:/static/assets/js/auth/auth.wasm:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067051.9013631,"msg":"IP:127.0.0.1:62667:/static/assets/images/favicon.ico:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067052.6986356,"msg":"IP:127.0.0.1:62667:/login:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067052.742732,"msg":"IP:127.0.0.1:62667:/static/stream-dashboard-ui-kit/assets/vendor/font-awesome/css/all.min.css:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067052.7432497,"msg":"IP:127.0.0.1:50857:/static/stream-dashboard-ui-kit/assets/css/theme.css:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067052.7452385,"msg":"IP:127.0.0.1:53318:/static/sweetalert2/sweetalert2.css:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067052.7489972,"msg":"IP:127.0.0.1:53790:/static/assets/js/wasm_exec.js:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067052.818886,"msg":"IP:127.0.0.1:53790:/static/jquery/dist/jquery.min.js:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067052.8251834,"msg":"IP:127.0.0.1:53790:/static/assets/images/adedayo_code.png:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067052.82996,"msg":"IP:127.0.0.1:53790:/static/stream-dashboard-ui-kit/assets/svg/mockups/mockup.svg:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067052.8339908,"msg":"IP:127.0.0.1:53790:/static/stream-dashboard-ui-kit/assets/svg/shapes/shape-1.svg:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067052.839006,"msg":"IP:127.0.0.1:53790:/static/stream-dashboard-ui-kit/assets/svg/shapes/shape-2.svg:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067052.8431022,"msg":"IP:127.0.0.1:53790:/static/stream-dashboard-ui-kit/assets/svg/shapes/shape-3.svg:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067052.848651,"msg":"IP:127.0.0.1:53790:/static/stream-dashboard-ui-kit/assets/svg/shapes/shape-4.svg:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067052.8532748,"msg":"IP:127.0.0.1:53790:/static/sweetalert2/sweetalert2.all.min.js:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067052.8762968,"msg":"IP:127.0.0.1:53790:/static/stream-dashboard-ui-kit/assets/vendor/font-awesome/webfonts/fa-regular-400.woff2:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067052.899541,"msg":"IP:127.0.0.1:53790:/static/assets/js/auth/auth.wasm:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625067052.9596374,"msg":"IP:127.0.0.1:53790:/static/assets/images/favicon.ico:2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"error","ts":1625067261.5121088,"msg":"http: Server closed"}
+{"level":"warn","ts":1625067261.514464,"msg":"Server has been shutdown at 2021-06-30 23:30:44.3365759 +0800 PST"}
+{"level":"info","ts":1625068245.879511,"msg":"Web server started at 2021-06-30 23:50:45.8783768 +0800 PST"}
+{"level":"info","ts":1625068251.8888903,"msg":"IP:127.0.0.1:62799:/login:2021-06-30 23:50:45.8783768 +0800 PST"}
+{"level":"info","ts":1625068251.9917994,"msg":"IP:127.0.0.1:62799:/static/assets/js/auth/auth.wasm:2021-06-30 23:50:45.8783768 +0800 PST"}
+{"level":"info","ts":1625068252.0324442,"msg":"IP:127.0.0.1:62799:/static/assets/images/favicon.ico:2021-06-30 23:50:45.8783768 +0800 PST"}
+{"level":"info","ts":1625068274.8699355,"msg":"IP:127.0.0.1:62799:/login:2021-06-30 23:50:45.8783768 +0800 PST"}
+{"level":"info","ts":1625068274.9154556,"msg":"IP:127.0.0.1:62799:/static/stream-dashboard-ui-kit/assets/vendor/font-awesome/css/all.min.css:2021-06-30 23:50:45.8783768 +0800 PST"}
+{"level":"info","ts":1625068274.9184933,"msg":"IP:127.0.0.1:54626:/static/sweetalert2/sweetalert2.css:2021-06-30 23:50:45.8783768 +0800 PST"}
+{"level":"info","ts":1625068274.919835,"msg":"IP:127.0.0.1:55311:/static/stream-dashboard-ui-kit/assets/css/theme.css:2021-06-30 23:50:45.8783768 +0800 PST"}
+{"level":"info","ts":1625068274.9914472,"msg":"IP:127.0.0.1:55311:/static/assets/js/wasm_exec.js:2021-06-30 23:50:45.8783768 +0800 PST"}
+{"level":"info","ts":1625068275.0561817,"msg":"IP:127.0.0.1:55311:/static/assets/images/adedayo_code.png:2021-06-30 23:50:45.8783768 +0800 PST"}
+{"level":"info","ts":1625068275.059844,"msg":"IP:127.0.0.1:54626:/static/stream-dashboard-ui-kit/assets/svg/mockups/mockup.svg:2021-06-30 23:50:45.8783768 +0800 PST"}
+{"level":"info","ts":1625068275.0623562,"msg":"IP:127.0.0.1:62799:/static/stream-dashboard-ui-kit/assets/svg/shapes/shape-1.svg:2021-06-30 23:50:45.8783768 +0800 PST"}
+{"level":"info","ts":1625068275.0665665,"msg":"IP:127.0.0.1:61442:/static/stream-dashboard-ui-kit/assets/svg/shapes/shape-2.svg:2021-06-30 23:50:45.8783768 +0800 PST"}
+{"level":"info","ts":1625068275.0712807,"msg":"IP:127.0.0.1:50238:/static/stream-dashboard-ui-kit/assets/svg/shapes/shape-4.svg:2021-06-30 23:50:45.8783768 +0800 PST"}
+{"level":"info","ts":1625068275.0723014,"msg":"IP:127.0.0.1:54099:/static/stream-dashboard-ui-kit/assets/svg/shapes/shape-3.svg:2021-06-30 23:50:45.8783768 +0800 PST"}
+{"level":"info","ts":1625068275.077269,"msg":"IP:127.0.0.1:55311:/static/stream-dashboard-ui-kit/assets/vendor/font-awesome/webfonts/fa-regular-400.woff2:2021-06-30 23:50:45.8783768 +0800 PST"}
+{"level":"info","ts":1625068275.0884662,"msg":"IP:127.0.0.1:54099:/static/jquery/dist/jquery.min.js:2021-06-30 23:50:45.8783768 +0800 PST"}
+{"level":"info","ts":1625068275.089151,"msg":"IP:127.0.0.1:50238:/static/sweetalert2/sweetalert2.all.min.js:2021-06-30 23:50:45.8783768 +0800 PST"}
+{"level":"info","ts":1625068275.104544,"msg":"IP:127.0.0.1:50238:/static/assets/js/auth/auth.wasm:2021-06-30 23:50:45.8783768 +0800 PST"}
+{"level":"info","ts":1625068275.3216,"msg":"IP:127.0.0.1:50238:/static/assets/images/favicon.ico:2021-06-30 23:50:45.8783768 +0800 PST"}
+{"level":"error","ts":1625068280.9860673,"msg":"http: Server closed"}
+{"level":"warn","ts":1625068280.987787,"msg":"Server has been shutdown at 2021-06-30 23:50:45.8783768 +0800 PST"}
+{"level":"info","ts":1625069396.6285212,"msg":"Web server started at 2021-07-01 00:09:56.6268567 +0800 PST"}
+{"level":"info","ts":1625069401.1025038,"msg":"IP:127.0.0.1:62661:/login:2021-07-01 00:09:56.6268567 +0800 PST"}
+{"level":"info","ts":1625069401.2081633,"msg":"IP:127.0.0.1:62661:/static/assets/js/auth/main.wasm:2021-07-01 00:09:56.6268567 +0800 PST"}
+{"level":"info","ts":1625069401.2631233,"msg":"IP:127.0.0.1:58302:/static/assets/images/favicon.ico:2021-07-01 00:09:56.6268567 +0800 PST"}
+{"level":"info","ts":1625069476.3166318,"msg":"IP:127.0.0.1:60539:/login:2021-07-01 00:09:56.6268567 +0800 PST"}
+{"level":"info","ts":1625069476.4643617,"msg":"IP:127.0.0.1:60539:/static/assets/js/auth/main.wasm:2021-07-01 00:09:56.6268567 +0800 PST"}
+{"level":"info","ts":1625069476.5759733,"msg":"IP:127.0.0.1:60539:/static/assets/images/favicon.ico:2021-07-01 00:09:56.6268567 +0800 PST"}
+{"level":"error","ts":1625070367.44162,"msg":"http: Server closed"}
+{"level":"warn","ts":1625070367.4428027,"msg":"Server has been shutdown at 2021-07-01 00:09:56.6268567 +0800 PST"}
+{"level":"info","ts":1625070642.2413085,"msg":"Web server started at 2021-07-01 00:30:42.2407462 +0800 PST"}
+{"level":"info","ts":1625070650.5289125,"msg":"IP:127.0.0.1:59367:/login:2021-07-01 00:30:42.2407462 +0800 PST"}
+{"level":"info","ts":1625070650.692852,"msg":"IP:127.0.0.1:59367:/static/assets/js/auth/main.wasm:2021-07-01 00:30:42.2407462 +0800 PST"}
+{"level":"info","ts":1625070650.7324362,"msg":"IP:127.0.0.1:53627:/static/assets/images/favicon.ico:2021-07-01 00:30:42.2407462 +0800 PST"}
+{"level":"error","ts":1625074051.1178787,"msg":"http: Server closed"}
+{"level":"warn","ts":1625074051.1206746,"msg":"Server has been shutdown at 2021-07-01 00:30:42.2407462 +0800 PST"}
+{"level":"info","ts":1625074054.0369024,"msg":"Web server started at 2021-07-01 01:27:34.0358509 +0800 PST"}
+{"level":"info","ts":1625074063.3469143,"msg":"IP:127.0.0.1:55836:/login:2021-07-01 01:27:34.0358509 +0800 PST"}
+{"level":"info","ts":1625074063.4581885,"msg":"IP:127.0.0.1:55836:/static/assets/js/auth/main.wasm:2021-07-01 01:27:34.0358509 +0800 PST"}
+{"level":"info","ts":1625074063.621948,"msg":"IP:127.0.0.1:55836:/static/assets/images/favicon.ico:2021-07-01 01:27:34.0358509 +0800 PST"}
+{"level":"info","ts":1625074070.1835582,"msg":"IP:127.0.0.1:55836:/login:2021-07-01 01:27:34.0358509 +0800 PST"}
+{"level":"info","ts":1625074070.284734,"msg":"IP:127.0.0.1:55836:/static/assets/images/favicon.ico:2021-07-01 01:27:34.0358509 +0800 PST"}
+{"level":"error","ts":1625074342.5757012,"msg":"http: Server closed"}
+{"level":"warn","ts":1625074342.5772555,"msg":"Server has been shutdown at 2021-07-01 01:27:34.0358509 +0800 PST"}
+{"level":"info","ts":1625074351.3075817,"msg":"Web server started at 2021-07-01 01:32:31.307059 +0800 PST"}
+{"level":"info","ts":1625074355.5863056,"msg":"IP:127.0.0.1:56520:/login:2021-07-01 01:32:31.307059 +0800 PST"}
+{"level":"info","ts":1625074355.7786531,"msg":"IP:127.0.0.1:56520:/static/assets/images/favicon.ico:2021-07-01 01:32:31.307059 +0800 PST"}
+{"level":"info","ts":1625074357.2343647,"msg":"IP:127.0.0.1:56520:/login:2021-07-01 01:32:31.307059 +0800 PST"}
+{"level":"info","ts":1625074357.388543,"msg":"IP:127.0.0.1:56520:/static/assets/images/favicon.ico:2021-07-01 01:32:31.307059 +0800 PST"}
+{"level":"error","ts":1625074397.8523595,"msg":"http: Server closed"}
+{"level":"warn","ts":1625074397.85371,"msg":"Server has been shutdown at 2021-07-01 01:32:31.307059 +0800 PST"}
+{"level":"info","ts":1625074401.7468567,"msg":"Web server started at 2021-07-01 01:33:21.7463375 +0800 PST"}
+{"level":"info","ts":1625074411.2321193,"msg":"IP:127.0.0.1:55138:/login:2021-07-01 01:33:21.7463375 +0800 PST"}
+{"level":"info","ts":1625074411.4058754,"msg":"IP:127.0.0.1:55138:/static/assets/images/favicon.ico:2021-07-01 01:33:21.7463375 +0800 PST"}
+{"level":"info","ts":1625074412.2332754,"msg":"IP:127.0.0.1:55138:/login:2021-07-01 01:33:21.7463375 +0800 PST"}
+{"level":"info","ts":1625074412.3784246,"msg":"IP:127.0.0.1:55138:/static/assets/images/favicon.ico:2021-07-01 01:33:21.7463375 +0800 PST"}
+{"level":"info","ts":1625074413.152814,"msg":"IP:127.0.0.1:55138:/login:2021-07-01 01:33:21.7463375 +0800 PST"}
+{"level":"info","ts":1625074413.3012877,"msg":"IP:127.0.0.1:55138:/static/assets/images/favicon.ico:2021-07-01 01:33:21.7463375 +0800 PST"}
+{"level":"info","ts":1625074413.3627162,"msg":"IP:127.0.0.1:55138:/login:2021-07-01 01:33:21.7463375 +0800 PST"}
+{"level":"info","ts":1625074413.5203817,"msg":"IP:127.0.0.1:55138:/static/assets/images/favicon.ico:2021-07-01 01:33:21.7463375 +0800 PST"}
+{"level":"info","ts":1625074414.339843,"msg":"IP:127.0.0.1:55138:/login:2021-07-01 01:33:21.7463375 +0800 PST"}
+{"level":"info","ts":1625074414.4890456,"msg":"IP:127.0.0.1:55138:/static/assets/images/favicon.ico:2021-07-01 01:33:21.7463375 +0800 PST"}
+{"level":"error","ts":1625074442.4600384,"msg":"http: Server closed"}
+{"level":"warn","ts":1625074442.4612951,"msg":"Server has been shutdown at 2021-07-01 01:33:21.7463375 +0800 PST"}
+{"level":"info","ts":1625074445.8377986,"msg":"Web server started at 2021-07-01 01:34:05.8367634 +0800 PST"}
+{"level":"info","ts":1625074449.8477993,"msg":"IP:127.0.0.1:57640:/login:2021-07-01 01:34:05.8367634 +0800 PST"}
+{"level":"info","ts":1625074450.0171714,"msg":"IP:127.0.0.1:57640:/static/assets/images/favicon.ico:2021-07-01 01:34:05.8367634 +0800 PST"}
+{"level":"info","ts":1625074450.1345446,"msg":"IP:127.0.0.1:57640:/static/assets/js/auth/main.wasm:2021-07-01 01:34:05.8367634 +0800 PST"}
+{"level":"error","ts":1625117990.126774,"msg":"http: Server closed"}
+{"level":"warn","ts":1625117990.1404252,"msg":"Server has been shutdown at 2021-07-01 01:34:05.8367634 +0800 PST"}

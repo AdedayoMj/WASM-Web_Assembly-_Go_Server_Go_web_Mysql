@@ -1,0 +1,61 @@
+# github.com/dustin/go-humanize v1.0.0
+github.com/dustin/go-humanize
+# github.com/felixge/httpsnoop v1.0.1
+github.com/felixge/httpsnoop
+# github.com/go-sql-driver/mysql v1.6.0
+## explicit
+github.com/go-sql-driver/mysql
+# github.com/gorilla/csrf v1.7.0
+## explicit
+github.com/gorilla/csrf
+# github.com/gorilla/handlers v1.5.1
+## explicit
+github.com/gorilla/handlers
+# github.com/gorilla/mux v1.8.0
+## explicit
+github.com/gorilla/mux
+# github.com/gorilla/securecookie v1.1.1
+github.com/gorilla/securecookie
+# github.com/itrepablik/gomail v1.0.1
+## explicit
+github.com/itrepablik/gomail
+# github.com/itrepablik/itrlog v1.0.3
+## explicit
+github.com/itrepablik/itrlog
+# github.com/itrepablik/lumberjack v1.0.0
+github.com/itrepablik/lumberjack
+# github.com/itrepablik/sakto v1.0.5
+## explicit
+github.com/itrepablik/sakto
+# github.com/itrepablik/sulat v1.0.7
+## explicit
+github.com/itrepablik/sulat
+# github.com/itrepablik/tago v1.0.3
+## explicit
+github.com/itrepablik/tago
+# github.com/pkg/errors v0.9.1
+github.com/pkg/errors
+# github.com/sendgrid/rest v2.6.4+incompatible
+## explicit
+github.com/sendgrid/rest
+# github.com/sendgrid/sendgrid-go v3.10.0+incompatible
+## explicit
+github.com/sendgrid/sendgrid-go
+github.com/sendgrid/sendgrid-go/helpers/mail
+# go.uber.org/atomic v1.6.0
+go.uber.org/atomic
+# go.uber.org/multierr v1.5.0
+go.uber.org/multierr
+# go.uber.org/zap v1.14.1
+go.uber.org/zap
+go.uber.org/zap/buffer
+go.uber.org/zap/internal/bufferpool
+go.uber.org/zap/internal/color
+go.uber.org/zap/internal/exit
+go.uber.org/zap/zapcore
+# golang.org/x/crypto v0.0.0-20210616213533-5ff15b29337e
+## explicit
+golang.org/x/crypto/bcrypt
+golang.org/x/crypto/blowfish
+# gopkg.in/alexcesaro/quotedprintable.v3 v3.0.0-20150716171945-2caba252f4dc
+gopkg.in/alexcesaro/quotedprintable.v3

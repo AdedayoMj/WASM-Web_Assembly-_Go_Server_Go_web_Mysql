@@ -1,0 +1,23 @@
+{"level":"info","ts":1625880575.3923352,"msg":"Web server started at 2021-07-10 09:29:35.3912658 +0800 PST"}
+{"level":"info","ts":1625880581.151287,"msg":"IP:127.0.0.1:53413:/login:2021-07-10 09:29:35.3912658 +0800 PST"}
+{"level":"info","ts":1625880581.213532,"msg":"IP:127.0.0.1:53413:/static/stream-dashboard-ui-kit/assets/vendor/font-awesome/css/all.min.css:2021-07-10 09:29:35.3912658 +0800 PST"}
+{"level":"info","ts":1625880581.2167397,"msg":"IP:127.0.0.1:57826:/static/stream-dashboard-ui-kit/assets/css/theme.css:2021-07-10 09:29:35.3912658 +0800 PST"}
+{"level":"info","ts":1625880581.225748,"msg":"IP:127.0.0.1:60786:/static/sweetalert2/sweetalert2.css:2021-07-10 09:29:35.3912658 +0800 PST"}
+{"level":"info","ts":1625880581.2282586,"msg":"IP:127.0.0.1:55175:/static/custom/signup.css:2021-07-10 09:29:35.3912658 +0800 PST"}
+{"level":"info","ts":1625880581.2282586,"msg":"IP:127.0.0.1:52383:/static/custom/login.css:2021-07-10 09:29:35.3912658 +0800 PST"}
+{"level":"info","ts":1625880581.230254,"msg":"IP:127.0.0.1:55947:/static/custom/custome_styles.css:2021-07-10 09:29:35.3912658 +0800 PST"}
+{"level":"info","ts":1625880581.3501103,"msg":"IP:127.0.0.1:55175:/static/custom/about.css:2021-07-10 09:29:35.3912658 +0800 PST"}
+{"level":"info","ts":1625880581.352703,"msg":"IP:127.0.0.1:53413:/static/custom/chat.css:2021-07-10 09:29:35.3912658 +0800 PST"}
+{"level":"info","ts":1625880581.3559015,"msg":"IP:127.0.0.1:52383:/static/assets/js/object-fit-videos.js:2021-07-10 09:29:35.3912658 +0800 PST"}
+{"level":"info","ts":1625880581.3754141,"msg":"IP:127.0.0.1:53413:/static/assets/images/favicon.ico:2021-07-10 09:29:35.3912658 +0800 PST"}
+{"level":"info","ts":1625880581.3764684,"msg":"IP:127.0.0.1:55175:/static/assets/images/go_inc.png:2021-07-10 09:29:35.3912658 +0800 PST"}
+{"level":"info","ts":1625880581.3814497,"msg":"IP:127.0.0.1:55175:/static/sweetalert2/sweetalert2.all.min.js:2021-07-10 09:29:35.3912658 +0800 PST"}
+{"level":"info","ts":1625880581.4012501,"msg":"IP:127.0.0.1:55175:/static/assets/js/auth/main.wasm:2021-07-10 09:29:35.3912658 +0800 PST"}
+{"level":"info","ts":1625880581.564867,"msg":"IP:127.0.0.1:53413:/static/assets/images/favicon.ico:2021-07-10 09:29:35.3912658 +0800 PST"}
+{"level":"info","ts":1625880605.4060915,"msg":"IP:127.0.0.1:55175:/signup:2021-07-10 09:29:35.3912658 +0800 PST"}
+{"level":"info","ts":1625880605.5311916,"msg":"IP:127.0.0.1:55175:/static/assets/images/go_go.jpg:2021-07-10 09:29:35.3912658 +0800 PST"}
+{"level":"info","ts":1625880605.574183,"msg":"IP:127.0.0.1:55175:/static/assets/js/auth/main.wasm:2021-07-10 09:29:35.3912658 +0800 PST"}
+{"level":"info","ts":1625880664.1234157,"msg":"IP:127.0.0.1:55175:/api/v1/user/register:2021-07-10 09:29:35.3912658 +0800 PST"}
+{"level":"info","ts":1625880788.6136239,"msg":"IP:127.0.0.1:55013:/api/v1/user/register:2021-07-10 09:29:35.3912658 +0800 PST"}
+{"level":"error","ts":1625950999.8672462,"msg":"http: Server closed"}
+{"level":"warn","ts":1625950999.8748844,"msg":"Server has been shutdown at 2021-07-10 09:29:35.3912658 +0800 PST"}

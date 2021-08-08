@@ -1,0 +1,53 @@
+body {
+    overflow-x: hidden;
+    font-family: 'Lato', sans-serif;
+    color: #505962;
+    background-repeat: no-repeat
+}
+
+.navbar {
+    background: rgba(0, 0, 0, 0.6);
+}
+
+#video {
+    font-family: 'object-fit:cover;';
+}
+
+.video-background {
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    background-color: rgba(0, 0, 0, 0.2);
+    object-fit: cover;
+    font-family: 'object-fit:cover;';
+}
+
+#topheader .navbar-nav li.active>a {
+    background-color: #333;
+    color: #fff;
+}
+
+.caption {
+    position: absolute;
+    top: 38%;
+    width: 100%;
+    color: white;
+}
+
+.caption h1 {
+    font-size: 2rem;
+    font-weight: 700;
+    letter-spacing: .2rem;
+    text-shadow: .1rem .1rem .8rem black;
+    padding-bottom: 1rem;
+}
+
+.caption h3 {
+    font-size: 1rem;
+    text-shadow: .1rem .1rem .5rem black;
+    padding-bottom: 1.6rem;
+}
+
+.login_page {
+    padding-top: 6.6rem;
+}

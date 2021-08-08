@@ -1,0 +1,123 @@
+{"level":"info","ts":1625563610.54294,"msg":"Web server started at 2021-07-06 17:26:50.5418528 +0800 PST"}
+{"level":"info","ts":1625563615.7295494,"msg":"IP:127.0.0.1:57469:/login:2021-07-06 17:26:50.5418528 +0800 PST"}
+{"level":"info","ts":1625563615.946252,"msg":"IP:127.0.0.1:57469:/static/assets/images/favicon.ico:2021-07-06 17:26:50.5418528 +0800 PST"}
+{"level":"info","ts":1625563616.0825565,"msg":"IP:127.0.0.1:57469:/static/assets/js/auth/main.wasm:2021-07-06 17:26:50.5418528 +0800 PST"}
+{"level":"info","ts":1625563619.42404,"msg":"IP:127.0.0.1:57469:/signup:2021-07-06 17:26:50.5418528 +0800 PST"}
+{"level":"info","ts":1625563619.532111,"msg":"IP:127.0.0.1:57469:/static/assets/images/go_go.jpg:2021-07-06 17:26:50.5418528 +0800 PST"}
+{"level":"info","ts":1625563658.0755024,"msg":"IP:127.0.0.1:57469:/login:2021-07-06 17:26:50.5418528 +0800 PST"}
+{"level":"info","ts":1625563659.5652454,"msg":"IP:127.0.0.1:57469:/signup:2021-07-06 17:26:50.5418528 +0800 PST"}
+{"level":"info","ts":1625563864.5359242,"msg":"IP:127.0.0.1:50532:/signup:2021-07-06 17:26:50.5418528 +0800 PST"}
+{"level":"info","ts":1625563864.7250993,"msg":"IP:127.0.0.1:50532:/static/assets/images/favicon.ico:2021-07-06 17:26:50.5418528 +0800 PST"}
+{"level":"error","ts":1625563931.3073752,"msg":"http: Server closed"}
+{"level":"warn","ts":1625563931.3113353,"msg":"Server has been shutdown at 2021-07-06 17:26:50.5418528 +0800 PST"}
+{"level":"info","ts":1625563937.6858213,"msg":"Web server started at 2021-07-06 17:32:17.6847661 +0800 PST"}
+{"level":"info","ts":1625563942.4173121,"msg":"IP:127.0.0.1:51363:/signup:2021-07-06 17:32:17.6847661 +0800 PST"}
+{"level":"info","ts":1625563942.617346,"msg":"IP:127.0.0.1:51363:/static/assets/images/favicon.ico:2021-07-06 17:32:17.6847661 +0800 PST"}
+{"level":"info","ts":1625564026.1447961,"msg":"IP:127.0.0.1:65057:/signup:2021-07-06 17:32:17.6847661 +0800 PST"}
+{"level":"info","ts":1625564026.3241403,"msg":"IP:127.0.0.1:65057:/static/assets/images/favicon.ico:2021-07-06 17:32:17.6847661 +0800 PST"}
+{"level":"error","ts":1625564060.893238,"msg":"http: Server closed"}
+{"level":"warn","ts":1625564060.8947895,"msg":"Server has been shutdown at 2021-07-06 17:32:17.6847661 +0800 PST"}
+{"level":"info","ts":1625564065.9494565,"msg":"Web server started at 2021-07-06 17:34:25.9489358 +0800 PST"}
+{"level":"info","ts":1625564069.420141,"msg":"IP:127.0.0.1:53438:/signup:2021-07-06 17:34:25.9489358 +0800 PST"}
+{"level":"info","ts":1625564069.5917149,"msg":"IP:127.0.0.1:53438:/static/assets/images/favicon.ico:2021-07-06 17:34:25.9489358 +0800 PST"}
+{"level":"info","ts":1625565853.2937324,"msg":"IP:127.0.0.1:54120:/signup:2021-07-06 17:34:25.9489358 +0800 PST"}
+{"level":"info","ts":1625565853.4352133,"msg":"IP:127.0.0.1:54120:/static/assets/js/auth/main.wasm:2021-07-06 17:34:25.9489358 +0800 PST"}
+{"level":"info","ts":1625565853.480507,"msg":"IP:127.0.0.1:62924:/static/assets/images/favicon.ico:2021-07-06 17:34:25.9489358 +0800 PST"}
+{"level":"info","ts":1625565891.108491,"msg":"IP:127.0.0.1:54120:/signup:2021-07-06 17:34:25.9489358 +0800 PST"}
+{"level":"info","ts":1625565891.275872,"msg":"IP:127.0.0.1:54120:/static/assets/images/favicon.ico:2021-07-06 17:34:25.9489358 +0800 PST"}
+{"level":"info","ts":1625565907.4019759,"msg":"IP:127.0.0.1:54120:/login:2021-07-06 17:34:25.9489358 +0800 PST"}
+{"level":"info","ts":1625565919.02497,"msg":"IP:127.0.0.1:54120:/:2021-07-06 17:34:25.9489358 +0800 PST"}
+{"level":"info","ts":1625565919.13226,"msg":"IP:127.0.0.1:54120:/static/assets/images/paint.jpg:2021-07-06 17:34:25.9489358 +0800 PST"}
+{"level":"info","ts":1625565919.1466565,"msg":"IP:127.0.0.1:54120:/static/assets/images/race.jpg:2021-07-06 17:34:25.9489358 +0800 PST"}
+{"level":"info","ts":1625565919.1567037,"msg":"IP:127.0.0.1:54120:/static/assets/images/sneak.jpg:2021-07-06 17:34:25.9489358 +0800 PST"}
+{"level":"info","ts":1625565921.6976619,"msg":"IP:127.0.0.1:54120:/login:2021-07-06 17:34:25.9489358 +0800 PST"}
+{"level":"info","ts":1625565924.8799708,"msg":"IP:127.0.0.1:54120:/signup:2021-07-06 17:34:25.9489358 +0800 PST"}
+{"level":"info","ts":1625565928.398617,"msg":"IP:127.0.0.1:54120:/api/v1/user/register:2021-07-06 17:34:25.9489358 +0800 PST"}
+{"level":"info","ts":1625565928.3998356,"msg":"fullname: "}
+{"level":"info","ts":1625565928.3998356,"msg":"userName: "}
+{"level":"info","ts":1625565928.3998356,"msg":"password: "}
+{"level":"info","ts":1625565928.3998356,"msg":"confirmpassword: "}
+{"level":"info","ts":1625565963.5561907,"msg":"IP:127.0.0.1:54120:/signup:2021-07-06 17:34:25.9489358 +0800 PST"}
+{"level":"info","ts":1625565963.7869775,"msg":"IP:127.0.0.1:54120:/static/assets/images/favicon.ico:2021-07-06 17:34:25.9489358 +0800 PST"}
+{"level":"info","ts":1625566028.9462676,"msg":"IP:127.0.0.1:54784:/login:2021-07-06 17:34:25.9489358 +0800 PST"}
+{"level":"error","ts":1625570256.2765481,"msg":"http: Server closed"}
+{"level":"warn","ts":1625570256.2771163,"msg":"Server has been shutdown at 2021-07-06 17:34:25.9489358 +0800 PST"}
+{"level":"info","ts":1625578094.2955687,"msg":"Web server started at 2021-07-06 21:28:14.294534 +0800 PST"}
+{"level":"info","ts":1625578101.0568082,"msg":"IP:127.0.0.1:49844:/login:2021-07-06 21:28:14.294534 +0800 PST"}
+{"level":"info","ts":1625578101.2298815,"msg":"IP:127.0.0.1:49844:/static/jquery/dist/jquery.min.js:2021-07-06 21:28:14.294534 +0800 PST"}
+{"level":"info","ts":1625578101.2406652,"msg":"IP:127.0.0.1:54086:/static/assets/js/wasm_exec.js:2021-07-06 21:28:14.294534 +0800 PST"}
+{"level":"info","ts":1625578101.2426286,"msg":"IP:127.0.0.1:53902:/static/assets/js/object-fit-videos.js:2021-07-06 21:28:14.294534 +0800 PST"}
+{"level":"info","ts":1625578101.4823024,"msg":"IP:127.0.0.1:54086:/static/sweetalert2/sweetalert2.all.min.js:2021-07-06 21:28:14.294534 +0800 PST"}
+{"level":"info","ts":1625578101.606634,"msg":"IP:127.0.0.1:54086:/static/assets/js/auth/main.wasm:2021-07-06 21:28:14.294534 +0800 PST"}
+{"level":"info","ts":1625578101.644656,"msg":"IP:127.0.0.1:49844:/static/stream-dashboard-ui-kit/assets/vendor/font-awesome/webfonts/fa-solid-900.woff2:2021-07-06 21:28:14.294534 +0800 PST"}
+{"level":"info","ts":1625578102.2437189,"msg":"IP:127.0.0.1:54086:/static/assets/images/favicon.ico:2021-07-06 21:28:14.294534 +0800 PST"}
+{"level":"info","ts":1625578104.2194335,"msg":"IP:127.0.0.1:54086:/signup:2021-07-06 21:28:14.294534 +0800 PST"}
+{"level":"info","ts":1625578109.6437368,"msg":"IP:127.0.0.1:54086:/api/v1/user/register:2021-07-06 21:28:14.294534 +0800 PST"}
+{"level":"error","ts":1625578109.6437368,"msg":"sql: unknown driver \"mysql\" (forgotten import?)"}
+{"level":"error","ts":1625578109.6437368,"msg":"Username is Required"}
+{"level":"info","ts":1625578109.6577053,"msg":"IP:127.0.0.1:49844:/api/v1/user/register:2021-07-06 21:28:14.294534 +0800 PST"}
+{"level":"error","ts":1625578109.6577053,"msg":"sql: unknown driver \"mysql\" (forgotten import?)"}
+{"level":"error","ts":1625578109.6577053,"msg":"Username is Required"}
+{"level":"info","ts":1625578109.6670039,"msg":"IP:127.0.0.1:53902:/api/v1/user/register:2021-07-06 21:28:14.294534 +0800 PST"}
+{"level":"error","ts":1625578109.6680055,"msg":"sql: unknown driver \"mysql\" (forgotten import?)"}
+{"level":"error","ts":1625578109.6680055,"msg":"Username is Required"}
+{"level":"info","ts":1625578109.677975,"msg":"IP:127.0.0.1:51832:/api/v1/user/register:2021-07-06 21:28:14.294534 +0800 PST"}
+{"level":"error","ts":1625578109.677975,"msg":"sql: unknown driver \"mysql\" (forgotten import?)"}
+{"level":"error","ts":1625578109.677975,"msg":"Username is Required"}
+{"level":"error","ts":1625578213.1829493,"msg":"http: Server closed"}
+{"level":"warn","ts":1625578213.184258,"msg":"Server has been shutdown at 2021-07-06 21:28:14.294534 +0800 PST"}
+{"level":"info","ts":1625578869.56285,"msg":"Web server started at 2021-07-06 21:41:09.5612406 +0800 PST"}
+{"level":"info","ts":1625578880.927586,"msg":"IP:127.0.0.1:63822:/signup:2021-07-06 21:41:09.5612406 +0800 PST"}
+{"level":"info","ts":1625578880.9769392,"msg":"IP:127.0.0.1:63822:/static/custom/chat.css:2021-07-06 21:41:09.5612406 +0800 PST"}
+{"level":"info","ts":1625578881.1595201,"msg":"IP:127.0.0.1:63822:/static/assets/js/auth/main.wasm:2021-07-06 21:41:09.5612406 +0800 PST"}
+{"level":"info","ts":1625578881.1888125,"msg":"IP:127.0.0.1:63822:/static/assets/images/favicon.ico:2021-07-06 21:41:09.5612406 +0800 PST"}
+{"level":"info","ts":1625578883.2761903,"msg":"IP:127.0.0.1:63822:/api/v1/user/register:2021-07-06 21:41:09.5612406 +0800 PST"}
+{"level":"error","ts":1625578883.2771876,"msg":"Username is Required"}
+{"level":"error","ts":1625579125.5672662,"msg":"http: Server closed"}
+{"level":"warn","ts":1625579125.5679617,"msg":"Server has been shutdown at 2021-07-06 21:41:09.5612406 +0800 PST"}
+{"level":"info","ts":1625579129.2354743,"msg":"Web server started at 2021-07-06 21:45:29.234438 +0800 PST"}
+{"level":"info","ts":1625579138.9874089,"msg":"IP:127.0.0.1:56995:/signup:2021-07-06 21:45:29.234438 +0800 PST"}
+{"level":"info","ts":1625579139.2075744,"msg":"IP:127.0.0.1:56995:/static/assets/js/auth/main.wasm:2021-07-06 21:45:29.234438 +0800 PST"}
+{"level":"info","ts":1625579139.2869377,"msg":"IP:127.0.0.1:56995:/static/assets/images/favicon.ico:2021-07-06 21:45:29.234438 +0800 PST"}
+{"level":"info","ts":1625579140.5898185,"msg":"IP:127.0.0.1:56995:/api/v1/user/register:2021-07-06 21:45:29.234438 +0800 PST"}
+{"level":"error","ts":1625579140.5898185,"msg":"Username is Required"}
+{"level":"info","ts":1625579145.256718,"msg":"IP:127.0.0.1:56995:/api/v1/user/register:2021-07-06 21:45:29.234438 +0800 PST"}
+{"level":"error","ts":1625579145.256718,"msg":"Email is Required"}
+{"level":"info","ts":1625579148.805306,"msg":"IP:127.0.0.1:56995:/api/v1/user/register:2021-07-06 21:45:29.234438 +0800 PST"}
+{"level":"error","ts":1625579148.805306,"msg":"Password is Required"}
+{"level":"info","ts":1625579158.0235467,"msg":"IP:127.0.0.1:56995:/api/v1/user/register:2021-07-06 21:45:29.234438 +0800 PST"}
+{"level":"error","ts":1625579158.0240803,"msg":"Passwords didn't match, please try again"}
+{"level":"info","ts":1625579164.9869597,"msg":"IP:127.0.0.1:56995:/api/v1/user/register:2021-07-06 21:45:29.234438 +0800 PST"}
+{"level":"error","ts":1625579164.9869597,"msg":"Passwords didn't match, please try again"}
+{"level":"info","ts":1625579179.155149,"msg":"IP:127.0.0.1:56995:/api/v1/user/register:2021-07-06 21:45:29.234438 +0800 PST"}
+{"level":"error","ts":1625579179.1557102,"msg":"Passwords didn't match, please try again"}
+{"level":"info","ts":1625579196.664479,"msg":"IP:127.0.0.1:56995:/api/v1/user/register:2021-07-06 21:45:29.234438 +0800 PST"}
+{"level":"error","ts":1625579196.6650317,"msg":"Passwords didn't match, please try again"}
+{"level":"error","ts":1625579457.7777145,"msg":"http: Server closed"}
+{"level":"warn","ts":1625579457.7788854,"msg":"Server has been shutdown at 2021-07-06 21:45:29.234438 +0800 PST"}
+{"level":"info","ts":1625579463.935412,"msg":"Web server started at 2021-07-06 21:51:03.934893 +0800 PST"}
+{"level":"info","ts":1625579470.1640978,"msg":"IP:127.0.0.1:52680:/signup:2021-07-06 21:51:03.934893 +0800 PST"}
+{"level":"info","ts":1625579470.379829,"msg":"IP:127.0.0.1:52680:/static/assets/js/auth/main.wasm:2021-07-06 21:51:03.934893 +0800 PST"}
+{"level":"info","ts":1625579470.439619,"msg":"IP:127.0.0.1:50502:/static/assets/images/favicon.ico:2021-07-06 21:51:03.934893 +0800 PST"}
+{"level":"info","ts":1625579481.70691,"msg":"IP:127.0.0.1:52680:/api/v1/user/register:2021-07-06 21:51:03.934893 +0800 PST"}
+{"level":"error","ts":1625579481.70691,"msg":"Terms of Service is Required, By joining AdeWebGolang, you're agreeing to our terms and conditions."}
+{"level":"info","ts":1625579548.787543,"msg":"IP:127.0.0.1:50827:/api/v1/user/register:2021-07-06 21:51:03.934893 +0800 PST"}
+{"level":"error","ts":1625580000.774048,"msg":"http: Server closed"}
+{"level":"warn","ts":1625580000.790141,"msg":"Server has been shutdown at 2021-07-06 21:51:03.934893 +0800 PST"}
+{"level":"info","ts":1625580014.070415,"msg":"Web server started at 2021-07-06 22:00:14.0693553 +0800 PST"}
+{"level":"info","ts":1625580014.2053285,"msg":"IP:127.0.0.1:51211:/signup:2021-07-06 22:00:14.0693553 +0800 PST"}
+{"level":"info","ts":1625580014.4636288,"msg":"IP:127.0.0.1:51211:/static/assets/js/auth/main.wasm:2021-07-06 22:00:14.0693553 +0800 PST"}
+{"level":"info","ts":1625580014.5783463,"msg":"IP:127.0.0.1:51211:/static/assets/images/favicon.ico:2021-07-06 22:00:14.0693553 +0800 PST"}
+{"level":"info","ts":1625580027.6750007,"msg":"IP:127.0.0.1:51211:/api/v1/user/register:2021-07-06 22:00:14.0693553 +0800 PST"}
+{"level":"error","ts":1625580027.675535,"msg":"Invalid Email Address, please try again"}
+{"level":"info","ts":1625580046.395528,"msg":"IP:127.0.0.1:51211:/api/v1/user/register:2021-07-06 22:00:14.0693553 +0800 PST"}
+{"level":"error","ts":1625580046.395528,"msg":"Invalid Email Address, please try again"}
+{"level":"info","ts":1625580057.9945025,"msg":"IP:127.0.0.1:51211:/api/v1/user/register:2021-07-06 22:00:14.0693553 +0800 PST"}
+{"level":"error","ts":1625580057.9955003,"msg":"Invalid Email Address, please try again"}
+{"level":"info","ts":1625580065.362794,"msg":"IP:127.0.0.1:51211:/api/v1/user/register:2021-07-06 22:00:14.0693553 +0800 PST"}
+{"level":"error","ts":1625580065.3633344,"msg":"Invalid Email Address, please try again"}
+{"level":"info","ts":1625580077.4000952,"msg":"IP:127.0.0.1:51211:/api/v1/user/register:2021-07-06 22:00:14.0693553 +0800 PST"}
+{"level":"error","ts":1625580077.4000952,"msg":"Invalid Email Address, please try again"}
+{"level":"info","ts":1625580083.5984287,"msg":"IP:127.0.0.1:51211:/api/v1/user/register:2021-07-06 22:00:14.0693553 +0800 PST"}
+{"level":"error","ts":1625655298.7884352,"msg":"http: Server closed"}
+{"level":"warn","ts":1625655298.7884352,"msg":"Server has been shutdown at 2021-07-06 22:00:14.0693553 +0800 PST"}

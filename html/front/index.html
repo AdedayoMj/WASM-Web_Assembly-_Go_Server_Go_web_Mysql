@@ -1,0 +1,98 @@
+ {{template "header" . }}
+<!--Main Navigation-->
+
+
+<main class="mt-5">
+
+    <div class="video-background">
+        <div class="video-wrap video-fluid">
+            <div id="video">
+                <video id="bgvid" autoplay loop muted playsinline>
+                    <source src="https://storage.googleapis.com/coverr-main/mp4/Mt_Baker.mp4" type="video/mp4">
+                          
+                </video>
+                <div class="caption text-center">
+                    <h1>ADEGBOYE'S PORTFOLIOS</h1>
+                    <h3>CHECK WEB DEVLOPMENTS DEMOS</h3>
+                    <a href="#demo" class=" btn btn-outline-light btn-lg">GET STARTED</a>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+
+
+    <!--Section: Content-->
+
+    <hr class="my-5" />
+    <div class="container" id="demo">
+        <!-- Example row of columns -->
+
+        <!--Section: Content-->
+        <section class="text-center ">
+            <h3 class="mb-5"><strong>DEMO AND DEVELOPMENT CODE</strong></h3>
+
+            <div class="row">
+                <div class="col-lg-4 col-md-12 mb-4">
+                    <div class="card">
+                        <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
+                            <img src="/static/assets/images/paint.jpg" class="img-fluid" />
+                            <a href="#!">
+                                <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
+                            </a>
+                        </div>
+                        <div class="card-body">
+                            <h5 class="card-title">Latest Dev</h5>
+                            <p class="card-text">
+                                Golang, Gorilla Mux Toolkit,Websocket, jquery, Cloud linode_ubuntu 20.04, Nginx, Certbot, WASM-Web asembly.
+                            </p>
+                            <a href="/chat" class="btn btn-primary">View</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="card">
+                        <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
+                            <img src="/static/assets/images/race.jpg" class="img-fluid" />
+                            <a href="#!">
+                                <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
+                            </a>
+                        </div>
+                        <div class="card-body">
+                            <h5 class="card-title">Latest Dev</h5>
+                            <p class="card-text">
+                                SUsing React typescript, firebase, Redux bootstrap, and other latest technology to modernize web development.
+                            </p>
+                            <a href="#!" class="btn btn-primary">View</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="card">
+                        <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
+                            <img src="/static/assets/images/sneak.jpg" class="img-fluid" />
+                            <a href="#!">
+                                <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
+                            </a>
+                        </div>
+                        <div class="card-body">
+                            <h5 class="card-title">Other Dev</h5>
+                            <p class="card-text">
+                                Some quick example text to build on the card title and make up the bulk of the card's content.
+                            </p>
+                            <a href="/about#portfolio" class="btn btn-primary">View</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--Section: Content-->
+    </div>
+    <hr class="my-5" />
+    <!-- /container -->
+</main>
+
+{{template "footer" . }}

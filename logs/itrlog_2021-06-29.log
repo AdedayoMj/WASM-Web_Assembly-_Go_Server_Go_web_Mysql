@@ -1,0 +1,118 @@
+{"level":"info","ts":1624968569.3323648,"msg":"Web server started at 2021-06-29 20:09:29.3323648 +0800 PST"}
+{"level":"info","ts":1624968583.0223708,"msg":"IP:127.0.0.1:63957:/:2021-06-29 20:09:29.3323648 +0800 PST"}
+{"level":"info","ts":1624968583.079375,"msg":"IP:127.0.0.1:63957:/static/assets/js/wasm_exec.js:2021-06-29 20:09:29.3323648 +0800 PST"}
+{"level":"info","ts":1624968583.1191952,"msg":"IP:127.0.0.1:63957:/static/assets/images/adedayo_code_logo1.png:2021-06-29 20:09:29.3323648 +0800 PST"}
+{"level":"info","ts":1624968583.2266014,"msg":"IP:127.0.0.1:63957:/static/assets/images/adedayo_code_logo1.png:2021-06-29 20:09:29.3323648 +0800 PST"}
+{"level":"error","ts":1624969643.5763228,"msg":"http: Server closed"}
+{"level":"warn","ts":1624969643.5779326,"msg":"Server has been shutdown at 2021-06-29 20:09:29.3323648 +0800 PST"}
+{"level":"info","ts":1624973882.4766865,"msg":"Web server started at 2021-06-29 21:38:02.476172 +0800 PST"}
+{"level":"error","ts":1624973882.4793072,"msg":"listen tcp 139.162.176.127:8081: bind: The requested address is not valid in its context."}
+{"level":"warn","ts":1624973931.3524396,"msg":"Server has been shutdown at 2021-06-29 21:38:02.476172 +0800 PST"}
+{"level":"info","ts":1624973934.6014662,"msg":"Web server started at 2021-06-29 21:38:54.6004138 +0800 PST"}
+{"level":"info","ts":1624973951.0103743,"msg":"IP:127.0.0.1:62000:/:2021-06-29 21:38:54.6004138 +0800 PST"}
+{"level":"info","ts":1624973951.0859978,"msg":"IP:127.0.0.1:62000:/static/assets/js/wasm_exec.js:2021-06-29 21:38:54.6004138 +0800 PST"}
+{"level":"info","ts":1624973951.1506703,"msg":"IP:127.0.0.1:62000:/static/jquery/dist/jquery.min.js:2021-06-29 21:38:54.6004138 +0800 PST"}
+{"level":"info","ts":1624973951.1605105,"msg":"IP:127.0.0.1:56248:/static/stream-dashboard-ui-kit/assets/svg/shapes/shape-1.svg:2021-06-29 21:38:54.6004138 +0800 PST"}
+{"level":"info","ts":1624973951.1664524,"msg":"IP:127.0.0.1:50041:/static/stream-dashboard-ui-kit/assets/svg/mockups/mockup.svg:2021-06-29 21:38:54.6004138 +0800 PST"}
+{"level":"info","ts":1624973951.1669576,"msg":"IP:127.0.0.1:54769:/static/stream-dashboard-ui-kit/assets/svg/shapes/shape-2.svg:2021-06-29 21:38:54.6004138 +0800 PST"}
+{"level":"info","ts":1624973951.1675262,"msg":"IP:127.0.0.1:62529:/static/stream-dashboard-ui-kit/assets/svg/shapes/shape-3.svg:2021-06-29 21:38:54.6004138 +0800 PST"}
+{"level":"info","ts":1624973951.1680644,"msg":"IP:127.0.0.1:61690:/static/stream-dashboard-ui-kit/assets/svg/shapes/shape-4.svg:2021-06-29 21:38:54.6004138 +0800 PST"}
+{"level":"info","ts":1624973951.2572632,"msg":"IP:127.0.0.1:56248:/static/stream-dashboard-ui-kit/assets/vendor/font-awesome/webfonts/fa-regular-400.woff2:2021-06-29 21:38:54.6004138 +0800 PST"}
+{"level":"info","ts":1624973953.0944545,"msg":"IP:127.0.0.1:56248:/:2021-06-29 21:38:54.6004138 +0800 PST"}
+{"level":"info","ts":1624973953.1344588,"msg":"IP:127.0.0.1:56248:/static/assets/js/wasm_exec.js:2021-06-29 21:38:54.6004138 +0800 PST"}
+{"level":"info","ts":1624973953.171815,"msg":"IP:127.0.0.1:56248:/static/assets/images/adedayo_code_logo1.png:2021-06-29 21:38:54.6004138 +0800 PST"}
+{"level":"info","ts":1624973987.7015789,"msg":"IP:127.0.0.1:56248:/:2021-06-29 21:38:54.6004138 +0800 PST"}
+{"level":"info","ts":1624973987.7390265,"msg":"IP:127.0.0.1:56248:/static/assets/js/wasm_exec.js:2021-06-29 21:38:54.6004138 +0800 PST"}
+{"level":"info","ts":1624973987.786678,"msg":"IP:127.0.0.1:56248:/static/assets/images/adedayo_code_logo1.png:2021-06-29 21:38:54.6004138 +0800 PST"}
+{"level":"info","ts":1624973989.2215354,"msg":"IP:127.0.0.1:56248:/:2021-06-29 21:38:54.6004138 +0800 PST"}
+{"level":"info","ts":1624973989.2565386,"msg":"IP:127.0.0.1:56248:/static/assets/js/wasm_exec.js:2021-06-29 21:38:54.6004138 +0800 PST"}
+{"level":"error","ts":1624974066.3872213,"msg":"http: Server closed"}
+{"level":"warn","ts":1624974066.4006417,"msg":"Server has been shutdown at 2021-06-29 21:38:54.6004138 +0800 PST"}
+{"level":"info","ts":1624974068.8136878,"msg":"Web server started at 2021-06-29 21:41:08.8126576 +0800 PST"}
+{"level":"info","ts":1624974075.6922662,"msg":"IP:127.0.0.1:52198:/:2021-06-29 21:41:08.8126576 +0800 PST"}
+{"level":"info","ts":1624974075.7407727,"msg":"IP:127.0.0.1:52198:/static/assets/js/wasm_exec.js:2021-06-29 21:41:08.8126576 +0800 PST"}
+{"level":"info","ts":1624974075.8249784,"msg":"IP:127.0.0.1:52198:/static/assets/images/adedayo_code_logo1.png:2021-06-29 21:41:08.8126576 +0800 PST"}
+{"level":"info","ts":1624974104.2566142,"msg":"IP:127.0.0.1:52198:/:2021-06-29 21:41:08.8126576 +0800 PST"}
+{"level":"info","ts":1624974104.3644893,"msg":"IP:127.0.0.1:52198:/static/assets/js/wasm_exec.js:2021-06-29 21:41:08.8126576 +0800 PST"}
+{"level":"info","ts":1624974104.4068909,"msg":"IP:127.0.0.1:52198:/static/assets/images/adedayo_code_logo1.png:2021-06-29 21:41:08.8126576 +0800 PST"}
+{"level":"info","ts":1624974178.1107652,"msg":"IP:127.0.0.1:58896:/:2021-06-29 21:41:08.8126576 +0800 PST"}
+{"level":"info","ts":1624974178.1493976,"msg":"IP:127.0.0.1:58896:/static/assets/js/wasm_exec.js:2021-06-29 21:41:08.8126576 +0800 PST"}
+{"level":"info","ts":1624974178.2346642,"msg":"IP:127.0.0.1:58896:/static/assets/images/adedayo_code_logo1.png:2021-06-29 21:41:08.8126576 +0800 PST"}
+{"level":"info","ts":1624974181.943458,"msg":"IP:127.0.0.1:58896:/:2021-06-29 21:41:08.8126576 +0800 PST"}
+{"level":"info","ts":1624974181.9769223,"msg":"IP:127.0.0.1:58896:/static/assets/js/wasm_exec.js:2021-06-29 21:41:08.8126576 +0800 PST"}
+{"level":"error","ts":1624974275.1366515,"msg":"http: Server closed"}
+{"level":"warn","ts":1624974275.1528301,"msg":"Server has been shutdown at 2021-06-29 21:41:08.8126576 +0800 PST"}
+{"level":"info","ts":1624974277.4910946,"msg":"Web server started at 2021-06-29 21:44:37.4900634 +0800 PST"}
+{"level":"info","ts":1624974283.402779,"msg":"IP:127.0.0.1:52601:/:2021-06-29 21:44:37.4900634 +0800 PST"}
+{"level":"info","ts":1624974283.4482403,"msg":"IP:127.0.0.1:52601:/static/assets/js/wasm_exec.js:2021-06-29 21:44:37.4900634 +0800 PST"}
+{"level":"info","ts":1624974283.5251215,"msg":"IP:127.0.0.1:52601:/static/assets/images/adedayo_code_logo1.png:2021-06-29 21:44:37.4900634 +0800 PST"}
+{"level":"error","ts":1624974357.7709625,"msg":"http: Server closed"}
+{"level":"warn","ts":1624974357.7760289,"msg":"Server has been shutdown at 2021-06-29 21:44:37.4900634 +0800 PST"}
+{"level":"info","ts":1624974359.745666,"msg":"Web server started at 2021-06-29 21:45:59.744629 +0800 PST"}
+{"level":"info","ts":1624974366.0167441,"msg":"IP:127.0.0.1:64884:/:2021-06-29 21:45:59.744629 +0800 PST"}
+{"level":"info","ts":1624974366.0634744,"msg":"IP:127.0.0.1:64884:/static/assets/js/wasm_exec.js:2021-06-29 21:45:59.744629 +0800 PST"}
+{"level":"info","ts":1624974366.158127,"msg":"IP:127.0.0.1:64884:/static/assets/images/adedayo_code_logo1.png:2021-06-29 21:45:59.744629 +0800 PST"}
+{"level":"error","ts":1624974419.85245,"msg":"http: Server closed"}
+{"level":"warn","ts":1624974419.8596997,"msg":"Server has been shutdown at 2021-06-29 21:45:59.744629 +0800 PST"}
+{"level":"info","ts":1624974422.0861409,"msg":"Web server started at 2021-06-29 21:47:02.085121 +0800 PST"}
+{"level":"info","ts":1624974425.2861323,"msg":"IP:127.0.0.1:63856:/:2021-06-29 21:47:02.085121 +0800 PST"}
+{"level":"info","ts":1624974425.3256063,"msg":"IP:127.0.0.1:63856:/static/assets/js/wasm_exec.js:2021-06-29 21:47:02.085121 +0800 PST"}
+{"level":"info","ts":1624974425.4174562,"msg":"IP:127.0.0.1:63856:/static/assets/images/adedayo_code_logo1.png:2021-06-29 21:47:02.085121 +0800 PST"}
+{"level":"error","ts":1624974437.66926,"msg":"http: Server closed"}
+{"level":"warn","ts":1624974437.6809864,"msg":"Server has been shutdown at 2021-06-29 21:47:02.085121 +0800 PST"}
+{"level":"info","ts":1624974440.1446867,"msg":"Web server started at 2021-06-29 21:47:20.1441381 +0800 PST"}
+{"level":"info","ts":1624974452.1849415,"msg":"IP:127.0.0.1:63941:/:2021-06-29 21:47:20.1441381 +0800 PST"}
+{"level":"info","ts":1624974452.307609,"msg":"IP:127.0.0.1:63941:/static/assets/js/wasm_exec.js:2021-06-29 21:47:20.1441381 +0800 PST"}
+{"level":"info","ts":1624974452.3528578,"msg":"IP:127.0.0.1:63941:/static/assets/images/adedayo_code_logo1.png:2021-06-29 21:47:20.1441381 +0800 PST"}
+{"level":"info","ts":1624974500.587393,"msg":"IP:127.0.0.1:63941:/:2021-06-29 21:47:20.1441381 +0800 PST"}
+{"level":"info","ts":1624974500.6661377,"msg":"IP:127.0.0.1:63941:/static/assets/js/wasm_exec.js:2021-06-29 21:47:20.1441381 +0800 PST"}
+{"level":"info","ts":1624974500.7104907,"msg":"IP:127.0.0.1:63941:/static/assets/images/adedayo_code_logo1.png:2021-06-29 21:47:20.1441381 +0800 PST"}
+{"level":"info","ts":1624974502.8172426,"msg":"IP:127.0.0.1:63941:/:2021-06-29 21:47:20.1441381 +0800 PST"}
+{"level":"info","ts":1624974502.8513217,"msg":"IP:127.0.0.1:63941:/static/assets/js/wasm_exec.js:2021-06-29 21:47:20.1441381 +0800 PST"}
+{"level":"info","ts":1624974502.890679,"msg":"IP:127.0.0.1:63941:/static/assets/images/adedayo_code_logo1.png:2021-06-29 21:47:20.1441381 +0800 PST"}
+{"level":"error","ts":1624974614.3728883,"msg":"http: Server closed"}
+{"level":"warn","ts":1624974614.3827684,"msg":"Server has been shutdown at 2021-06-29 21:47:20.1441381 +0800 PST"}
+{"level":"info","ts":1624974616.8025594,"msg":"Web server started at 2021-06-29 21:50:16.8015257 +0800 PST"}
+{"level":"info","ts":1624974760.185989,"msg":"IP:127.0.0.1:54766:/:2021-06-29 21:50:16.8015257 +0800 PST"}
+{"level":"info","ts":1624974760.2411847,"msg":"IP:127.0.0.1:54766:/static/assets/js/wasm_exec.js:2021-06-29 21:50:16.8015257 +0800 PST"}
+{"level":"info","ts":1624974760.3333747,"msg":"IP:127.0.0.1:54766:/static/assets/images/favicon.ico:2021-06-29 21:50:16.8015257 +0800 PST"}
+{"level":"info","ts":1624975020.9263566,"msg":"IP:127.0.0.1:57573:/:2021-06-29 21:50:16.8015257 +0800 PST"}
+{"level":"info","ts":1624975020.969473,"msg":"IP:127.0.0.1:57573:/static/assets/js/wasm_exec.js:2021-06-29 21:50:16.8015257 +0800 PST"}
+{"level":"info","ts":1624975021.0686007,"msg":"IP:127.0.0.1:57573:/static/assets/images/favicon.ico:2021-06-29 21:50:16.8015257 +0800 PST"}
+{"level":"error","ts":1624975259.0718646,"msg":"http: Server closed"}
+{"level":"warn","ts":1624975259.080368,"msg":"Server has been shutdown at 2021-06-29 21:50:16.8015257 +0800 PST"}
+{"level":"info","ts":1624975261.1415215,"msg":"Web server started at 2021-06-29 22:01:01.1409979 +0800 PST"}
+{"level":"info","ts":1624975265.5226564,"msg":"IP:127.0.0.1:56499:/:2021-06-29 22:01:01.1409979 +0800 PST"}
+{"level":"info","ts":1624975265.572849,"msg":"IP:127.0.0.1:56499:/static/assets/js/wasm_exec.js:2021-06-29 22:01:01.1409979 +0800 PST"}
+{"level":"info","ts":1624975265.613505,"msg":"IP:127.0.0.1:56499:/static/assets/images/adedayo_code.png:2021-06-29 22:01:01.1409979 +0800 PST"}
+{"level":"info","ts":1624975265.73559,"msg":"IP:127.0.0.1:56499:/static/assets/images/favicon.ico:2021-06-29 22:01:01.1409979 +0800 PST"}
+{"level":"info","ts":1624975267.0357144,"msg":"IP:127.0.0.1:56499:/:2021-06-29 22:01:01.1409979 +0800 PST"}
+{"level":"info","ts":1624975267.0711591,"msg":"IP:127.0.0.1:56499:/static/assets/js/wasm_exec.js:2021-06-29 22:01:01.1409979 +0800 PST"}
+{"level":"info","ts":1624975267.1131146,"msg":"IP:127.0.0.1:56499:/static/assets/images/favicon.ico:2021-06-29 22:01:01.1409979 +0800 PST"}
+{"level":"error","ts":1624975851.2550046,"msg":"http: Server closed"}
+{"level":"warn","ts":1624975851.267159,"msg":"Server has been shutdown at 2021-06-29 22:01:01.1409979 +0800 PST"}
+{"level":"info","ts":1624976758.4311376,"msg":"Web server started at 2021-06-29 22:25:58.4306218 +0800 PST"}
+{"level":"info","ts":1624976762.682804,"msg":"IP:127.0.0.1:55610:/:2021-06-29 22:25:58.4306218 +0800 PST"}
+{"level":"info","ts":1624976762.726852,"msg":"IP:127.0.0.1:55610:/static/assets/js/wasm_exec.js:2021-06-29 22:25:58.4306218 +0800 PST"}
+{"level":"info","ts":1624976762.7763171,"msg":"IP:127.0.0.1:55610:/static/assets/images/adedayo_code.png:2021-06-29 22:25:58.4306218 +0800 PST"}
+{"level":"info","ts":1624976762.8706903,"msg":"IP:127.0.0.1:55610:/static/assets/images/favicon.ico:2021-06-29 22:25:58.4306218 +0800 PST"}
+{"level":"info","ts":1624976763.657812,"msg":"IP:127.0.0.1:55610:/:2021-06-29 22:25:58.4306218 +0800 PST"}
+{"level":"info","ts":1624976763.6973376,"msg":"IP:127.0.0.1:55610:/static/assets/js/wasm_exec.js:2021-06-29 22:25:58.4306218 +0800 PST"}
+{"level":"info","ts":1624976763.7475245,"msg":"IP:127.0.0.1:55610:/static/assets/images/favicon.ico:2021-06-29 22:25:58.4306218 +0800 PST"}
+{"level":"info","ts":1624976764.6205337,"msg":"IP:127.0.0.1:55610:/:2021-06-29 22:25:58.4306218 +0800 PST"}
+{"level":"info","ts":1624976764.6620564,"msg":"IP:127.0.0.1:55610:/static/assets/js/wasm_exec.js:2021-06-29 22:25:58.4306218 +0800 PST"}
+{"level":"info","ts":1624976764.6975555,"msg":"IP:127.0.0.1:55610:/static/assets/images/favicon.ico:2021-06-29 22:25:58.4306218 +0800 PST"}
+{"level":"info","ts":1624976765.0981944,"msg":"IP:127.0.0.1:55610:/:2021-06-29 22:25:58.4306218 +0800 PST"}
+{"level":"info","ts":1624976765.2109478,"msg":"IP:127.0.0.1:55610:/static/assets/js/wasm_exec.js:2021-06-29 22:25:58.4306218 +0800 PST"}
+{"level":"info","ts":1624976765.2337623,"msg":"IP:127.0.0.1:55610:/static/assets/images/favicon.ico:2021-06-29 22:25:58.4306218 +0800 PST"}
+{"level":"info","ts":1624976765.4101977,"msg":"IP:127.0.0.1:55610:/:2021-06-29 22:25:58.4306218 +0800 PST"}
+{"level":"info","ts":1624976765.5280948,"msg":"IP:127.0.0.1:55610:/static/assets/js/wasm_exec.js:2021-06-29 22:25:58.4306218 +0800 PST"}
+{"level":"info","ts":1624976765.5547585,"msg":"IP:127.0.0.1:55610:/static/assets/images/favicon.ico:2021-06-29 22:25:58.4306218 +0800 PST"}
+{"level":"info","ts":1624976765.76394,"msg":"IP:127.0.0.1:55610:/:2021-06-29 22:25:58.4306218 +0800 PST"}
+{"level":"info","ts":1624976765.8783078,"msg":"IP:127.0.0.1:55610:/static/assets/js/wasm_exec.js:2021-06-29 22:25:58.4306218 +0800 PST"}
+{"level":"info","ts":1624976765.9022312,"msg":"IP:127.0.0.1:55610:/static/assets/images/favicon.ico:2021-06-29 22:25:58.4306218 +0800 PST"}
+{"level":"info","ts":1624976765.9803936,"msg":"IP:127.0.0.1:55610:/:2021-06-29 22:25:58.4306218 +0800 PST"}
+{"level":"info","ts":1624976766.1781158,"msg":"IP:127.0.0.1:55610:/static/assets/js/wasm_exec.js:2021-06-29 22:25:58.4306218 +0800 PST"}
+{"level":"info","ts":1624976766.201055,"msg":"IP:127.0.0.1:55610:/static/assets/images/favicon.ico:2021-06-29 22:25:58.4306218 +0800 PST"}
+{"level":"error","ts":1624976769.0049117,"msg":"http: Server closed"}
+{"level":"warn","ts":1624976769.0149446,"msg":"Server has been shutdown at 2021-06-29 22:25:58.4306218 +0800 PST"}

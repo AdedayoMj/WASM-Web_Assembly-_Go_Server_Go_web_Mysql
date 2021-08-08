@@ -1,0 +1,12 @@
+#hero-chat {
+    width: 100%;
+    height: 100vh;
+    background: url("/static/assets/images/paint.jpg") top center;
+    background-size: cover;
+}
+
+#hero-chat .hero-container {
+    position: relative;
+    z-index: 2;
+    min-width: 300px;
+}
